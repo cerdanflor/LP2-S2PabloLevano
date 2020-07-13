@@ -1,7 +1,7 @@
 <%-- 
     Document   : DatosClientes
     Created on : 13-jul-2020, 9:25:41
-    Author     : USUARIO
+    Author     : Pablinchis
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
@@ -12,6 +12,6 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>Hello World!</h1>
+        Datos Cliente
     </body>
 </html>
