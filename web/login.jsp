@@ -1,7 +1,7 @@
 <%-- 
     Document   : login
     Created on : 13-jul-2020, 9:24:05
-    Author     : USUARIO
+    Author     : Pablo Lévano
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
@@ -12,6 +12,7 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>Hello World!</h1>
+        Ingrese usuario y clave
+        <a href="menu.jsp">Ingresar</a>
     </body>
 </html>
